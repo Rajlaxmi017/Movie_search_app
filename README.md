@@ -3,7 +3,7 @@
 ## Internship Details
 
 * **Company:** CODTECH IT SOLUTIONS
-* **Intern Name:** Rajlaxmi Vinayak Raje
+* **Intern Name:** Rajlaxmi Raje
 * **Intern ID:** CTIS8398
 * **Domain:** React JS Web Development
 * **Internship Duration:** 12 Weeks

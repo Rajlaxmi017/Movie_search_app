@@ -6,7 +6,7 @@
 * **Intern Name:** Rajlaxmi Raje
 * **Intern ID:** CTIS8398
 * **Domain:** React JS Web Development
-* **Internship Duration:** 12 Weeks
+* **Internship Duration:** 4 weeks
 * **Mentor:** Neela Santosh
 
 ---
